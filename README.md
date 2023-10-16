@@ -1,4 +1,4 @@
-# ============ UML & Dependencia ============
+# ========== UML & Dependencia ==========
 ### Jesús Tapia Martin
 
 ### Análisis del diagrama
