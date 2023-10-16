@@ -2,7 +2,8 @@
 ### Jesús Tapia Martin
 
 ### Análisis del diagrama
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/b8e6a4ea-4e92-43d4-bfc9-90cef2615afa)
+![Captura de pantalla 2023-10-15 225751](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/8565a1cc-3b50-4e69-aff6-f6978f25dd0a)
+
 
 Razones
 * Cada Vehículo funciona como una clase separada de la otra, esto debido a que cada uno presenta distintos atributos, comportamientos y métodos que los diferencian entre si.
@@ -18,30 +19,35 @@ Razones
 ### Código entregado en base al diagrama
 * Main
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e013fdf1-77b7-4a50-a3e5-a78819a3f5a9)
+![Captura de pantalla 2023-10-15 235423](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e21d5c0f-dd0c-413b-b6a7-645d47818721)
+
 
 * Auto
   
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/fc0f5bf4-6ce1-4da4-9f50-2bb5b21a3253)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/fcbc64f1-caf9-4291-bd7c-47cff1d4c702)
+![Captura de pantalla 2023-10-15 235509](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/fd400e8e-c334-4384-9733-5326409f04f5)
+![Captura de pantalla 2023-10-15 235521](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/9f34d9ac-8c06-4e42-8dd9-6f8ed15a3e7a)
 
 
 * Bici
   
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e85bccbc-4cbd-4bfd-aedf-3c82125be2b8)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/1c1bdadb-f890-41b9-bf1b-cf2b59bc135c)
+![Captura de pantalla 2023-10-15 235509](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/46382cdf-0772-412a-b11a-4738d42183d6)
+![Captura de pantalla 2023-10-15 235521](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/554b35c7-2eaf-4550-bcb0-01850a293b84)
+
 
 
 * Persona
   
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/0d8529d2-e391-4178-9c15-16d4fc74ff5c)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/2a43f2e7-5da1-45c5-97e6-5b24ce21dbaf)
+![Captura de pantalla 2023-10-15 235532](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/59d8c10e-40a9-4aee-955b-eefed4a9b7a1)
+![Captura de pantalla 2023-10-15 235545](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/edb703b9-a858-4421-bcf2-e34286c3413b)
+
 
 
 * Moto
   
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/9dab6bba-0c41-490f-b3d0-1cf130fc9540)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/728ddb51-c297-4686-a0a3-34b41e2f6718)
+![Captura de pantalla 2023-10-15 235558](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/643f2236-b414-4c47-bf1c-a2a717269edb)
+![Captura de pantalla 2023-10-15 235614](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/a9e21f9a-ba9b-40c2-964a-fcc123af8d5d)
+
+
 
 
 ### Cambios y detalles del código
@@ -55,46 +61,53 @@ Los cambios respecto al código que nos da el VisualParadigm en base al diagrama
 ### Código final
 * Main
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e4708dbb-dce6-4782-ace6-59977a15afde)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/dea2111e-6f30-49a6-bb1b-e9bba804f3ab)
+![Captura de pantalla 2023-10-16 002453](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/3d26fe48-c8f0-4acc-9c71-bbb1600fe3b5)
+![Captura de pantalla 2023-10-16 002520](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e4543364-a6fe-418d-9e36-222ee5e74594)
+
 
 * Persona
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/b40174ef-c1d0-4773-a9f9-ed0c410561a7)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/c1384604-9aa6-46b8-8e44-1d2e36fb94e3)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/b01dde29-5001-480c-aaca-59935861fb2c)
+![Captura de pantalla 2023-10-16 002547](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/d3648cd2-63cf-4677-8d75-a1965e43ff49)
+![Captura de pantalla 2023-10-16 002611](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/96db4fae-696f-4f70-8269-75728b95e830)
+![Captura de pantalla 2023-10-16 002629](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/6a0a3360-e068-43ea-b947-a9ba5fc75fda)
+
 
 * Auto
+  
+![Captura de pantalla 2023-10-16 002654](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/f39b7e4d-2dfd-47ce-a707-2f0ac70c1c37)
+![Captura de pantalla 2023-10-16 002740](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/64b93d14-c537-4289-bf53-a64cb6ea027f)
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/8adc78f3-9527-4741-8ad0-4e92d53807c1)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/249e5ab5-b600-4384-a820-e27719388525)
+
 
 * Moto
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/0a5d9367-ec46-40ea-8bfc-2ba477c56fe7)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/2cc40c81-4917-4e5c-93d9-c7b67e342e7e)
+![Captura de pantalla 2023-10-16 002804](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/2bfc2981-c313-42b8-9ad4-596b866d7aa4)
+![Captura de pantalla 2023-10-16 002818](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/ff855fd8-5c25-4ce6-97a2-deb3d83c17a2)
+
 
 * Bici
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/66c50ae6-86d5-47e7-a5aa-4584ad89c9c2)
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e27ef97c-448f-468b-be1f-4a8601633e4b)
+![Captura de pantalla 2023-10-16 002840](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e6330894-fad9-4db5-99fb-a60f25b5ef0a)
+![Captura de pantalla 2023-10-16 002850](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/4001ef68-5417-41f1-ba6f-e186c3ba446e)
+
 
 
 ### Pruebas unitarias
 
 * Test --> Clase Auto
-* 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/dd1607c3-89ea-4ba8-b045-67b27216ed7d)
+  
+![Captura de pantalla 2023-10-16 003017](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/75ddb8c3-636a-402b-a692-10d34051e36e)
 
 
 * Test --> Clase Moto
- 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/6f055301-24df-436b-9ab5-48a2333f7c4c)
+  
+ ![Captura de pantalla 2023-10-16 003039](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/2a6be235-d2c1-4b65-b289-18415b18f936)
 
 
 * Test --> Clase Bici
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/88b02bbc-1422-46dd-9b71-b427142b5285)
+![Captura de pantalla 2023-10-16 003107](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/5c1cd811-af53-493e-9a65-606db95156bb)
+
 
 
 ### Relaciones de Dependencia
@@ -105,17 +118,19 @@ Además la Clase Persona es utilizada por la Clase Main.
 
 * [1] En este caso la Clase Persona instancia un objeto de cada Clase, para poder usarlo como parámetro en los métodos para estimar el tiempo.
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/ffd00be5-900e-436e-b50f-d19053db9ad8)
+![Captura de pantalla 2023-10-16 003745](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/38d6f011-5b3c-4a2e-9fb3-5cddbc691c66)
+
 
 
 * [2] Se recibe como parámetro el nombre que ingresa el Usuario, el cual es un atributo de un ojeto tipo Persona.
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/22b8c659-f691-4533-81f2-5c43207875ef)
+![Captura de pantalla 2023-10-16 003842](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/0f674358-3d34-4b0a-8a4d-65faeb252ce1)
+
 
 
 * [3] El método Menu depende de todas las funcionalidades presente en la Clase Persona, ya que es esta clase la que maneja toda la información.
 
-![image](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/b7a80e93-fef7-4e17-ab9f-1f78edff7059)
+![Captura de pantalla 2023-10-16 003924](https://github.com/JesusTapiaMartin/UmlDependencias/assets/142464450/e6532685-9e39-4131-8a3d-b0d3e3ba9ad8)
 
 
 
