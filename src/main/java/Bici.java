@@ -9,7 +9,7 @@ public class Bici {
 
 
     // ========== MÉTODOS ==========
-    // ----- CONSTRUCTOR -----
+        // ----- CONSTRUCTOR -----
     public Bici(String modeloBici, String colorBici, double velocidadMediaBici) {
         this.modeloBici             = modeloBici;
         this.colorBici              = colorBici;
@@ -18,13 +18,13 @@ public class Bici {
 
 
 
-    // ----- CONSTRUCTOR VACÍO -----
+        // ----- CONSTRUCTOR VACÍO -----
     public Bici() {
     }
 
 
 
-    // ----- GETTERS -----
+        // ----- GETTERS -----
     public String getModeloBici() {
         return modeloBici;
     }
@@ -41,13 +41,14 @@ public class Bici {
 
 
 
-    // ----- ESTIMAR TIEMPO -----
+        // ----- ESTIMAR TIEMPO -----
     public double estimarTiempoBici() {
         return 169.5 / velocidadMediaBici;
     }
 
 
-    // ----- IMPRIMIR TIEMPO -----
+
+        // ----- IMPRIMIR TIEMPO -----
     public void imprimirTiempoEstimadoBici(String nombreUsuario) {
         double tiempoEstimado = estimarTiempoBici();
         System.out.println(     "Hola "             + nombreUsuario     + "! El tiempo de viaje aproximado para llegar a " +

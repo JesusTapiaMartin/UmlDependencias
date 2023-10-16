@@ -9,7 +9,7 @@ public class Moto {
 
 
     // ========== MÉTODOS ==========
-    // ----- CONSTRUCTOR -----
+        // ----- CONSTRUCTOR -----
 
     public Moto(String modeloMoto, String colorMoto, double velocidadMediaMoto) {
         this.modeloMoto                 = modeloMoto;
@@ -18,12 +18,13 @@ public class Moto {
     }
 
 
-    // ----- CONSTRUCTOR VACÍO -----
+        // ----- CONSTRUCTOR VACÍO -----
     public Moto() {
     }
 
 
-    // ----- GETTERS -----
+
+        // ----- GETTERS -----
     public String getModeloMoto() {
         return modeloMoto;
     }
@@ -40,13 +41,14 @@ public class Moto {
 
 
 
-    // ----- ESTIMAR TIEMPO -----
+        // ----- ESTIMAR TIEMPO -----
     public double estimarTiempoMoto() {
         return 169.5 / velocidadMediaMoto;
     }
 
 
-    // ----- IMPRIMIR TIEMPO -----
+
+        // ----- IMPRIMIR TIEMPO -----
     public void imprimirTiempoEstimadoMoto(String nombreUsuario) {
         double tiempoEstimado = estimarTiempoMoto();
         System.out.println(     "Hola "             + nombreUsuario     + "! El tiempo de viaje aproximado para llegar a " +

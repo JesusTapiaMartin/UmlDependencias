@@ -10,7 +10,7 @@ public class Auto {
 
 
     // ========== MÉTODOS ==========
-    // ----- CONSTRUCTOR -----
+        // ----- CONSTRUCTOR -----
     public Auto(String modeloAuto, String colorAuto, int plazasAuto, double velocidadMediaAuto) {
         this.modeloAuto             = modeloAuto;
         this.colorAuto              = colorAuto;
@@ -20,13 +20,13 @@ public class Auto {
 
 
 
-    // ----- CONSTRUCTOR VACÍO -----
+        // ----- CONSTRUCTOR VACÍO -----
     public Auto() {
     }
 
 
 
-    // ----- GETTERS -----
+        // ----- GETTERS -----
     public String getModeloAuto() {
         return modeloAuto;
     }
@@ -45,14 +45,14 @@ public class Auto {
 
 
 
-    // ----- ESTIMAR TIEMPO -----
+        // ----- ESTIMAR TIEMPO -----
     public double estimarTiempoAuto() {
         return 169.5 / velocidadMediaAuto;
     }
 
 
 
-    // ----- IMPRIMIR TIEMPO -----
+        // ----- IMPRIMIR TIEMPO -----
     public void imprimirTiempoEstimadoAuto(String nombreUsuario) {
         double tiempoEstimado = estimarTiempoAuto();
         System.out.println(     "Hola "             + nombreUsuario+ "! El tiempo de viaje aproximado para llegar a " +

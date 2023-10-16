@@ -9,27 +9,27 @@ public class Persona {
 
     // ========== MÉTODOS ==========
 
-    // ----- Constructor con parámetros -----
+        // ----- Constructor con parámetros -----
     public Persona(String nombre) {
         this.nombre = nombre;
     }
 
 
 
-    // ----- Constructor vacío -----
+        // ----- Constructor vacío -----
     public Persona() {
     }
 
 
 
-    // ----- Get nombre -----
+        // ----- Get nombre -----
     public String getNombre() {
         return nombre;
     }
 
 
 
-    // ----- CREAR USUARIO -----
+        // ----- CREAR USUARIO -----
     public static Persona crearUsuario(){
         Scanner lector  = new Scanner(System.in);
 
@@ -46,7 +46,7 @@ public class Persona {
 
 
 
-    // ----- MOSTRAR VEHÍCULOS -----
+        // ----- MOSTRAR VEHÍCULOS -----
     public static void mostrarVehiculos() {
         Auto auto = new Auto("Kia Morning"          , "Blanco"          , 5         , 58.0  );
         Bici bici = new Bici("Trek Mountain Bike"   , "Verde"           , 20.0              );
@@ -73,7 +73,7 @@ public class Persona {
 
 
 
-    // ----- TIEMPO ESTIMADO -----
+        // ----- TIEMPO ESTIMADO -----
     public static void tiempoEstimado(){
         Auto auto = new Auto("Kia Morning"          , "Blanco"      , 5         , 58.0  );
         Bici bici = new Bici("Trek Mountain Bike"   , "Verde"       , 20.0              );
